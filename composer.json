@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/paypal",
+    "name": "mythril/paypal",
     "type": "library",
     "description": "PayPal gateway for Omnipay payment processing library",
     "keywords": [
